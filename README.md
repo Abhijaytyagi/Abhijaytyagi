@@ -1,6 +1,6 @@
-<!-- <div id="header" align="center">
+<div id="header" align="center">
   <img src="https://github.com/Abhijaytyagi/Abhijay_Tyagi/blob/main/Introduction_to_Pandas.gif" alt="👋 Hi there! Abhijay Tyagi" title="👋 Hi there! I'm Abhijay Tyagi" width ="600" height="180" />
-</div> -->
+</div> 
 <div id="header" align="center">
   <a href = "https://leetcode.com/Abhijay_tyagi/">
     <img src="https://github.com/Abhijaytyagi/Abhijay_Tyagi/blob/main/Top_SQL_50.gif" alt="Top SQL 50 Badge" title="Top SQL 50 Badge" width = "100" height = "100"/>

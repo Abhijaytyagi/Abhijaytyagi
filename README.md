@@ -1,7 +1,4 @@
 <div id="header" align="center">
-  <img src="https://github.com/Abhijaytyagi/Abhijay_Tyagi/blob/main/Introduction_to_Pandas.gif" alt="👋 Hi there! Abhijay Tyagi" title="👋 Hi there! I'm Abhijay Tyagi" width ="600" height="180" />
-</div> 
-<div id="header" align="center">
   <a href = "https://leetcode.com/Abhijay_tyagi/">
     <img src="https://github.com/Abhijaytyagi/Abhijay_Tyagi/blob/main/Top_SQL_50.gif" alt="Top SQL 50 Badge" title="Top SQL 50 Badge" width = "100" height = "100"/>
   </a>
@@ -26,25 +23,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-tyagiabhijay09@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:tyagiabhijay09@gmail,com)](mailto:tyagiabhijay09@gmail.com) &nbsp;
 
 
-<!--[![Stack Overflow](https://stackoverflow-badge.vercel.app/?userID=10614373)](https://stackoverflow.com/users/10614373/trollsors) &nbsp;-->
 
-</div>
-
-<!--
-**Siddikulus/Siddikulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<br>
 
 ## 📚 Skillset
 
@@ -76,7 +55,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 👋 Hey there 
+## 👋 Hi there 
 
 ```python
 #!/usr/bin/python
@@ -85,19 +64,19 @@ Here are some ideas to get you started:
 class DataScientist:
 
     def __init__(self):
-        self.name = "Siddharth Mathur"
+        self.name = "Abhijay Tyagi"
         self.role = "Data Scientist"
         self.language_spoken = ["en_US", "hi"]
 
     def about_me(self):
         print('''
-            💼 Data Scientist with over four years of hands-on experience leveraging Python to architect and
-               engineer sophisticated data-driven solutions.
-            🎓 Currently a graduate student with bold ideas studying Data Science at the University of Colorado, Boulder.
-            🔭 Also into research. I focus my research efforts on enhancing safety and healthcare through the
-               application of computer vision and deep learning technologies.
-            💬 Come brainstorm with me over tech, algorithms, career, movies, games, anime and music.
-            ⚡ "I'm not gonna give up. Once I've found something I want to do, I do it. That's my ninja way!" - Naruto Uzumaki
+            💼 Data Scientist with hands-on experience gained through internships, specializing in crafting innovative
+                data-driven solutions to boost business productivity.
+            🎓 Currently pursuing a graduate degree in Data Science at the University of Colorado, Boulder,
+                where I'm honing my skills in data analysis techniques and leveraging business intelligence tools
+                to drive strategic decisions and optimize operational efficiency across various industries.
+            💬 Come brainstorm with me over tech, algorithms, career, movies, games, sports and music.
+            ⚡ "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela 
             ''')
 
     def say_hi(self):

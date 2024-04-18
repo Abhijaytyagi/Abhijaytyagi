@@ -21,14 +21,10 @@
 <br>
 <div id="header" align="center">
   
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=plastic&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fonehotencoder_97&logo=leetcode&logoColor=yellow)](https://leetcode.com/onehotencoder_97/) &nbsp;
-[![Stack Overflow Reputation](https://img.shields.io/stackexchange/stackoverflow/r/10614373?color=orange&label=reputation&logo=stackoverflow&style=social)](https://stackoverflow.com/users/10614373 "Stack Overflow Reputation")
-[![GitHub followers](https://img.shields.io/github/followers/Siddikulus?label=Follow&style=social)](https://github.com/Siddikulus/?tab=follow) &nbsp;
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/siddharth-mathur-24b6a2152/)](https://www.linkedin.com/in/siddharth-mathur-24b6a2152/) &nbsp;
-[![IEEE Profile](https://img.shields.io/badge/-IEEE-00629B?style=social&logo=ieee&logoColor=blue&link=https://ieeexplore.ieee.org/author/37089563053)](https://ieeexplore.ieee.org/author/37089563053) &nbsp;
-[![Twitter Follow](https://img.shields.io/twitter/follow/Trollsorous?style=social)](https://twitter.com/intent/follow?screen_name=Trollsorous) &nbsp;
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbhijay_tyagi&logo=leetcode&logoColor=yellow)](https://leetcode.com/Abhijay_tyagi/) &nbsp;
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abhijay-tyagi-b050b5194/)](https://www.linkedin.com/in/abhijay-tyagi-b050b5194/) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-siddharthmathur20@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:siddharthmathur20@gmail.com)](mailto:email@anuragsingh.dev) &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Siddikulus&label=Profile%20views&color=0e75b6&style=flat)
+
 
 <!--[![Stack Overflow](https://stackoverflow-badge.vercel.app/?userID=10614373)](https://stackoverflow.com/users/10614373/trollsors) &nbsp;-->
 

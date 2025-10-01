@@ -72,9 +72,9 @@ class DataScientist:
         print('''
             💼 Data Scientist with hands-on experience gained through internships, specializing in crafting innovative
                 data-driven solutions to boost business productivity.
-            🎓 Currently pursuing a graduate degree in Data Science at the University of Colorado, Boulder,
-                where I'm honing my skills in data analysis techniques and leveraging business intelligence tools
-                to drive strategic decisions and optimize operational efficiency across various industries.
+            🎓 Graduated with a Master's degree in Data Science (GPA- 3.90) from the University of Colorado, Boulder,
+                where I built a strong foundation in concepts of Machine learning, Deep learning, LLMs, data analysis techniques
+                and leveraging business intelligence tools to drive strategic decisions and optimize operational efficiency across various industries.
             💬 Come brainstorm with me over tech, algorithms, career, movies, games, sports and music.
             ⚡ "The greatest glory in living lies not in never falling, but in rising every time we fall." - Nelson Mandela 
             ''')

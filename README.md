@@ -20,7 +20,7 @@
   
 [![LeetCode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAbhijay_tyagi&logo=leetcode&logoColor=yellow)](https://leetcode.com/Abhijay_tyagi/) &nbsp;
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/abhijay-tyagi-b050b5194/)](https://www.linkedin.com/in/abhijay-tyagi-b050b5194/) &nbsp;
-[![Gmail Badge](https://img.shields.io/badge/-tyagiabhijay09@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:tyagiabhijay09@gmail,com)](mailto:tyagiabhijay09@gmail.com) &nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-tyagiabhijay@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:tyagiabhijay@gmail,com)](mailto:tyagiabhijay@gmail.com) &nbsp;
 
 
 
